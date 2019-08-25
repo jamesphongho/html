@@ -1,12 +1,22 @@
- h1 {
-     color: blue;
- }
- 
- #h1 {
-     font-size: 50px;
-     color: crimson;
- }
- 
- .doimau {
-     background-color: chocolate;
- }
+h1 {
+    color: blue;
+}
+
+#h1 {
+    font-size: 50px;
+    color: crimson;
+}
+
+.doimau {
+    background-color: chocolate;
+}
+
+#menu {
+    left: 500px;
+}
+
+#table {
+    width: 100%;
+    height: 400;
+    border-color: blue;
+}
