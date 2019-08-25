@@ -15,9 +15,9 @@ h1 {
     left: 500px;
 }
 
-#table {
-    width: 100%;
-    height: 400;
+.table {
+    width: 700;
+    height: 300;
     border-color: blue;
 }
 
@@ -25,4 +25,10 @@ h1 {
     width: 200;
     background-color: linear-gradient(120deg, #3498db, #f1c40f);
     size: 20;
+}
+
+#dev1 {
+    width: 200px;
+    height: 500px;
+    background-color: linear-gradient(120deg, #3498db, #f1c40f);
 }
