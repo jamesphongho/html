@@ -27,8 +27,9 @@ h1 {
     size: 20;
 }
 
-#dev1 {
+#div1 {
     width: 200px;
     height: 500px;
     background-color: linear-gradient(120deg, #3498db, #f1c40f);
+    /* linear-gradient(120deg, #3498db, #f1c40f); */
 }
