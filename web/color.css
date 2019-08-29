@@ -33,3 +33,17 @@ h1 {
     background-color: linear-gradient(120deg, #3498db, #f1c40f);
     /* linear-gradient(120deg, #3498db, #f1c40f); */
 }
+
+[target] {
+    background-color: rgb(10, 201, 121);
+    text-decoration: none;
+}
+
+.underline {
+    text-decoration: none;
+}
+
+#2 {
+    text-decoration: none;
+    background-color: rgb(10, 201, 121);
+}
